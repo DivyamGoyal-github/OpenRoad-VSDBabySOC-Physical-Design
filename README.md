@@ -27,7 +27,6 @@ This README explains everything cleanly.
 
 # 🗂 Repository Structure
 
-You can structure your repo like this:
 
 ```
 OpenRoad-VSDBabySOC-Physical-Design/
